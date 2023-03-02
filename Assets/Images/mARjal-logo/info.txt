@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: EnigmaB_2
+font link: https://www.fontsquirrel.com/fonts/Enigmatic
+font author: Objets Dart
+font author site: http://www.objetsdart.ca
+Slogan Font: Snickles.ttf
+
+icon designer: mungang kim
+icon designer link: /mungang.kim
+        
+{"bg":"#353922","icon":"#98D82C","font":"#FFFFFF","slogan":"#ffffff"}
+      
