@@ -12,6 +12,7 @@ public class SceneLoader : MonoBehaviour
     private float t = 0.0f;
     private Image image;
     private Text buttonText;
+    
 
     void Start()
     {
